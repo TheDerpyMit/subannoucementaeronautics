@@ -1,3 +1,7 @@
 CaptainAnnoucement-MaxAlt.dfpwm
 Takeoff.dfpwm
 welcome.dfpwm
+thruster_offline.dfpwm
+subengine_offline.dfpwm
+hover_offline.dfpwm
+propellor_offline.dfpwm
